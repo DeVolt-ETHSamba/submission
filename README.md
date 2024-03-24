@@ -38,8 +38,8 @@ Furthermore, DeVolt is committed to fostering community-based energy projects, e
 
 ### Criadores
 
-- [Matheus Macedo Santos](https://www.linkedin.com/in/matheusmacedosantos/)
-- [Marcelo Gomes Feitoza](https://www.linkedin.com/in/marcelofeitoza7/)
-- [Paulo Evangelista](https://www.linkedin.com/in/paulo-evangelista/)
 - [Emanuele Morais](https://www.linkedin.com/in/emanuele-morais/)
 - [Henrique Marlon](https://www.linkedin.com/in/henriquemarlon/)
+- [Marcelo Gomes Feitoza](https://www.linkedin.com/in/marcelofeitoza7/)
+- [Matheus Macedo Santos](https://www.linkedin.com/in/matheusmacedosantos/)
+- [Paulo Evangelista](https://www.linkedin.com/in/paulo-evangelista/)
