@@ -51,6 +51,6 @@ https://sepolia.scrollscan.com/address/0x243E9F2Ee6Af8f1c0783Ff10452CC1486820552
 
 
 ### More
-https://github.com/DeVolt-ETHSamba/submission/blob/main/depin/README.md
-https://github.com/DeVolt-ETHSamba/submission/blob/main/rollup/README.md
-https://github.com/DeVolt-ETHSamba/submission/blob/main/frontend/README.md
+- https://github.com/DeVolt-ETHSamba/submission/blob/main/depin/README.md
+- https://github.com/DeVolt-ETHSamba/submission/blob/main/rollup/README.md
+- https://github.com/DeVolt-ETHSamba/submission/blob/main/frontend/README.md
