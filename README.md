@@ -38,7 +38,7 @@ Furthermore, DeVolt is committed to fostering community-based energy projects, e
 
 ![Mock](assets/arch.png)
 
-### Criadores
+### Developers
 
 - [Emanuele Morais](https://www.linkedin.com/in/emanuele-morais/)
 - [Henrique Marlon](https://www.linkedin.com/in/henriquemarlon/)
