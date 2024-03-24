@@ -16,8 +16,6 @@ In pursuing this vision, DeVolt is set to transform the energy landscape, making
 
 **⁠Scroll:** Chosen for its simple integration with Layer 1 Ethereum, zero-knowledge proof alignment, and compatibility with EVM technologies.
 
-**Chainlink PriceFeed:** Integrates off-chain data into the network, verifying and auditing the data through various nodes—used in our case to create a stable coin.
-
 **Scaffold ETH2 (Next.js, DaisyUI, and ShadCN):** Create a user-friendly interface on a platform that allows electric vehicle users to charge their vehicles and energy producers to market their production or surplus.
 
 ⁠**Cartesi:** Used for its optimistic rollups, ensuring true and verified computation, which also allows the use of technologies beyond Solidity, enabling work with any stack.
