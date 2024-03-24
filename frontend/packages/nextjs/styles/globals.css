@@ -1,0 +1,78 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root,
+[data-theme] {
+  background: oklch(var(--b2));
+}
+
+body {
+  min-height: 100vh;
+}
+
+
+h1 {
+  font-size: 2.5rem;
+  color: #161616;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.h1-white {
+  color: #ffffff;
+}
+
+.h1-white-big {
+  font-size: 3rem;
+  color: #ffffff;
+  font-weight: 600;
+  line-height: 1.2;
+
+}
+
+.h1-big {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2;
+
+}
+
+
+
+h2 {
+  font-size: 2rem;
+  color: #161616;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 1rem;
+  color: #161616;
+  font-weight: 300;
+}
+
+h4 {
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+header {
+  margin-bottom: 0.5rem;
+  line-height: 1;
+  color: #ffffff;
+}
+
+
+p {
+  margin: 1rem 0;
+}
+
+.btn {
+  @apply shadow-md;
+}
+
+.btn.btn-ghost {
+  @apply shadow-none;
+}
+
