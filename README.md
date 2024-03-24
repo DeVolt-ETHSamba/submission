@@ -36,6 +36,10 @@ Another key area of focus will be the expansion of our electric vehicle (EV) cha
 
 Furthermore, DeVolt is committed to fostering community-based energy projects, empowering local communities to produce, manage, and consume their own energy, thus promoting energy independence and sustainability. These future implementations will not only enhance DeVolt’s service offerings but also contribute significantly to the global shift towards a more sustainable and efficient energy landscape.
 
+## Software Architecture
+
+![Mock](assets/arch.png)
+
 ### Criadores
 
 - [Emanuele Morais](https://www.linkedin.com/in/emanuele-morais/)
