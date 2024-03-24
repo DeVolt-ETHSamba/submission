@@ -46,8 +46,8 @@ Furthermore, DeVolt is committed to fostering community-based energy projects, e
 
 ### Contracts
 
-https://sepolia.scrollscan.com/address/0x5dd976d75ef97a70790cf8c39e7a1f8f5ff239f6#contracts
-https://sepolia.scrollscan.com/address/0x243E9F2Ee6Af8f1c0783Ff10452CC1486820552c#code
+- https://sepolia.scrollscan.com/address/0x5dd976d75ef97a70790cf8c39e7a1f8f5ff239f6#contracts
+- https://sepolia.scrollscan.com/address/0x243E9F2Ee6Af8f1c0783Ff10452CC1486820552c#code
 
 
 ### More
