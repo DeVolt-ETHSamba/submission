@@ -1,3 +1,5 @@
+![Mock](assets/summary.png)
+
 ## The Problem
 
 The current energy market is plagued by inefficiencies, lack of transparency, and limited access to direct trading mechanisms for individual producers and small enterprises. Traditional systems often result in lost potential for renewable energy sources, as excess energy cannot be efficiently distributed and utilized. Moreover, consumers face high energy costs and limited options for sustainable energy sources. The centralization of energy distribution also poses risks of monopolistic control and inhibits the broader adoption of renewable energy solutions, ultimately hindering the transition to a more sustainable and resilient energy system.
